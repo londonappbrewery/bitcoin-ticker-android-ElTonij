@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Member Variables:
     TextView mPriceTextView;
+    //Start
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
